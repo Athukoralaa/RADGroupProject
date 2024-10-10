@@ -13,7 +13,7 @@ const AppointmentRoute = require("./Routes/AppointmentRoute");
 const PORT=4000
 
 mongoose
-  .connect('mongodb+srv://buddhi:abc123abc@cluster0.k4pbpwj.mongodb.net/?retryWrites=true&w=majority', {
+  .connect('mongodb://localhost:27017/Rad_DB', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
