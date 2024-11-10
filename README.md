@@ -1,4 +1,4 @@
-# RADGroupProject
+# Daycare Management System
 
 This project is a MERN (MongoDB, Express, React, Node.js) stack application designed to manage appointments and user roles such as children, teachers, and guardians. The project is structured into two main directories: `client` and `server`.
 
